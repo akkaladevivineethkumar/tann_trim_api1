@@ -51,25 +51,25 @@
           "id":1,
           "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084545/Mask_group_s9acms.jpg",
           "name":"The Brown Metro Movers",
-          "price": 4899
+          "price": 8999
         },
         {
           "id":2,
           "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084545/SIPR04031_01_1_niqoxn.jpg",
           "name":"The Metro Movers Black",
-          "price": 4899
+          "price": 8999
         },
         {
           "id":3,
           "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084545/SIPR04085_01_1_v0fw1s.jpg",
           "name":"The Metro Movers Black",
-          "price": 4899
+          "price": 8999
         },
         {
           "id":4,
           "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708084545/SIPR04086_01_1_c0qooj.jpg",
           "name":"The Metro Movers Black",
-          "price": 4899
+          "price": 8999
         }
       ]
   }
